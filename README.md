@@ -1,21 +1,21 @@
 # Hexo source files
 
 ## Setup
-1. Make sure *Node.js* is installed.
-2. Install *Hexo*.
+Make sure *Node.js* is installed.
+Install *Hexo*:
 
 ``` bash
 $ npm install
 ```
 
-3. Install *Git* deployer.
+Install *Git* deployer:
 
 ``` bash
 $ npm install hexo-deployer-git --save
 ```
 
 ## Write new posts
-1. Create a new post
+Create a new post:
 
 ``` bash
 $ hexo new "My New Post"
@@ -24,7 +24,15 @@ $ hexo new "My New Post"
 More info: [Writing](https://hexo.io/docs/writing.html)
 
 ## Deploy to remote sites
-1. Deploy to GitHub.io
+Generate and run on local host:
+
+``` bash
+$ hexo generate
+$ hexo server
+```
+Then navigate to URL [localhost:4000](https://localhost:4000) in the browser.
+
+Deploy to GitHub.io
 
 ``` bash
 $ hexo deploy
