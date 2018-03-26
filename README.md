@@ -2,10 +2,11 @@
 
 ## Setup
 Make sure *Node.js* is installed.
-Install *Hexo*:
+Install *Hexo* and *Hexo Renderer*:
 
 ``` bash
 $ npm install
+$ npm install --save hexo-renderer-sass
 ```
 
 Install *Git* deployer:
