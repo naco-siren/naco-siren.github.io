@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Naco Siren</title>
+  
+  <subtitle>Stay Young, Stay Simple</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://naco-siren.github.io/"/>
+  <updated>2018-03-26T04:44:22.524Z</updated>
+  <id>https://naco-siren.github.io/</id>
+  
+  <author>
+    <name>Naco Siren</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Things First</title>
+    <link href="https://naco-siren.github.io/2018/03/25/test/"/>
+    <id>https://naco-siren.github.io/2018/03/25/test/</id>
+    <published>2018-03-26T01:38:00.000Z</published>
+    <updated>2018-03-26T04:44:22.524Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="My-First-Blog-on-GitHub-io"><a href="#My-First-Blog-on-GitHub-io" class="headerlink" title="My First Blog on GitHub.io"></a>My First Blog on GitHub.io</h1><p>Bazzinga!</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;My-First-Blog-on-GitHub-io&quot;&gt;&lt;a href=&quot;#My-First-Blog-on-GitHub-io&quot; class=&quot;headerlink&quot; title=&quot;My First Blog on GitHub.io&quot;&gt;&lt;/a&gt;My First
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
