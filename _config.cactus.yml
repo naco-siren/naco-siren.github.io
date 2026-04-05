@@ -1,0 +1,15 @@
+# Theme overrides — merges with themes/cactus/_config.yml
+# Only include fields you want to customize.
+
+projects_url: https://github.com/naco-siren
+
+nav:
+  Home: /
+  About: /about/
+  Writing: /archives/
+  Projects: https://github.com/naco-siren
+
+social_links:
+  instagram: https://www.instagram.com/naco_siren
+  linkedin: https://www.linkedin.com/in/nacosiren
+  mail: mailto:naconacona@icloud.com
