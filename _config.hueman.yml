@@ -1,0 +1,38 @@
+# Theme overrides — merges with themes/hueman/_config.yml
+# Only include fields you want to customize.
+
+menu:
+    Home: /
+    About: /about/index.html
+
+customize:
+    theme_color: '#006bde'
+    sidebar: left
+    thumbnail: true
+    social_links:
+        github: https://github.com/naco-siren
+        instagram: https://www.instagram.com/naco_siren
+        linkedin: https://www.linkedin.com/in/nacosiren
+        rss: /atom.xml
+
+# Disable all comment systems
+comment:
+    disqus:
+    duoshuo:
+    youyan:
+    facebook:
+
+# Disable third-party tracking
+plugins:
+    lightgallery: true
+    justifiedgallery: true
+    google_analytics:
+    mathjax: false
+    counter: false
+    cookie_consent: false
+
+miscellaneous:
+    links:
+        GitHub: https://github.com/naco-siren
+
+poweredby: true
