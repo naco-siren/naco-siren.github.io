@@ -1,6 +1,6 @@
 ---
 title: Mech Keeb Switches
-thumbnail: /images/Mech-Keeb-Switches/icon.png
+thumbnail: /thumbnails/Mech-Keeb-Switches.png
 categories:
 - Apps
 toc: true

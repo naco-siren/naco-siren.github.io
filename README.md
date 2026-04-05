@@ -68,11 +68,16 @@ Reference them in the post:
 ![Also works](screenshot.png)
 ```
 
-Set a **thumbnail** for the post card on the home page:
+Set a **thumbnail** for the post card on the home page. Thumbnails must use absolute paths
+(post asset folder relative paths don't resolve correctly on the index page):
+
+```
+source/thumbnails/My-Post-Title.png     # one thumbnail per post
+```
 
 ```yaml
 ---
-thumbnail: screenshot.png
+thumbnail: /thumbnails/My-Post-Title.png
 ---
 ```
 
