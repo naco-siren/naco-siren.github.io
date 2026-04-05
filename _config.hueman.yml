@@ -9,6 +9,7 @@ customize:
     theme_color: '#006bde'
     sidebar: left
     thumbnail: true
+    favicon: /images/favicon.ico
     social_links:
         github: https://github.com/naco-siren
         instagram: https://www.instagram.com/naco_siren
