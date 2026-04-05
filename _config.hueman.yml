@@ -17,7 +17,7 @@ customize:
 
 # Disable all comment systems
 comment:
-    disqus:
+    disqus: naco-siren
     duoshuo:
     youyan:
     facebook:
