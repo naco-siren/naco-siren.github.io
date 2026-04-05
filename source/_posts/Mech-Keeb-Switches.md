@@ -1,7 +1,12 @@
 ---
 title: Mech Keeb Switches
+thumbnail: /images/Mech-Keeb-Switches/icon.png
+categories:
+- Apps
+toc: true
+comments: false
 date: 2025-12-31 22:22
-tags: 
+tags:
 - Privacy Policy
 - iOS
 - iPadOS
