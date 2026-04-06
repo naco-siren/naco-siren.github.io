@@ -2,7 +2,10 @@
 title: "OpenMDict: Privacy Policy"
 toc: true
 comments: false
+tags: [Privacy Policy]
 ---
+
+*Last updated: April 5, 2026*
 
 ## Overview
 

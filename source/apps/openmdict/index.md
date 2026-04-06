@@ -1,5 +1,6 @@
 ---
 title: OpenMDict
+date: 2026-04-05 15:37
 comments: false
 ---
 
@@ -14,5 +15,4 @@ Import your own dictionaries or download from a curated selection of open-source
 - [About & Screenshots](/2026/04/05/OpenMDict/)
 - [Privacy Policy](/apps/openmdict/privacy/)
 - [Support](/apps/openmdict/support/)
-- [Source Code](https://github.com/aspect-build/openmdict-ios)
 - Developed by Naco Siren
