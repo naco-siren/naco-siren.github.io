@@ -1,6 +1,7 @@
 ---
 title: "Mech Keeb Switches: Support"
 comments: true
+tags: [App Support]
 ---
 
 ## Need Help?

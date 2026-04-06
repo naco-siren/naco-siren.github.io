@@ -2,7 +2,10 @@
 title: "Mech Keeb Switches: Privacy Policy"
 toc: true
 comments: false
+tags: [Privacy Policy]
 ---
+
+*Last updated: Dec 31, 2025*
 
 ## Overview
 

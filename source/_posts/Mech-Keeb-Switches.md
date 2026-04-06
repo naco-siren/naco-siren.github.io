@@ -4,11 +4,8 @@ thumbnail: /thumbnails/Mech-Keeb-Switches.png
 date: 2025-12-31 22:22
 toc: true
 comments: true
-categories:
-- Apps
-tags:
-- iOS
-- iPadOS
+categories: [Apps]
+tags: [iOS, iPadOS, Mechanical Keyboard]
 ---
 
 A mechanical keyboard switch reference app for iPhone and iPad.
