@@ -1,18 +1,7 @@
 ---
 title: OpenMDict
-date: 2026-04-05 15:37
 comments: false
 ---
 
-A free, open-source MDict (.mdx/.mdd) dictionary reader for iPhone and iPad.
-
-Import your own dictionaries or download from a curated selection of open-source ones. Look up words, bookmark entries, and sync across devices with iCloud — all private, all yours.
-
-<!-- [Download on the App Store](https://apps.apple.com/app/openmdict/idXXXXXXXXXX) -->
-
----
-
-- [About & Screenshots](/2026/04/05/OpenMDict/)
-- [Privacy Policy](/apps/openmdict/privacy/)
-- [Support](/apps/openmdict/support/)
-- Developed by Naco Siren
+<meta http-equiv="refresh" content="0;url=/2026/04/05/OpenMDict/">
+<script>window.location.href = '/2026/04/05/OpenMDict/';</script>
