@@ -15,6 +15,8 @@ Large language models are critical for improving app user experiences from cloud
 
 A common question for AI and mobile developers is which model delivers the best performance on a given device to truly delight their users. Obtaining and testing new models on target devices is usually a time-consuming task. However, this new tool from Arm addresses this challenge by expediting the evaluation process.
 
+<!-- more -->
+
 ## Download & Chat
 
 With just a few taps, you can download popular LLMs for free, then load and chat with them entirely offline. The app delivers a familiar experience of chatting with an AI robot, with the freedom to choose from various models without the need for a subscription or network connection. This is possible thanks to Arm's AI capabilities that accelerate local inference.

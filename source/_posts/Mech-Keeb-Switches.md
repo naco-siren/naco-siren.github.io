@@ -12,6 +12,8 @@ A mechanical keyboard switch reference app for iPhone and iPad.
 
 Browse, search, and compare hundreds of switches. Track your favorites and inventory — all offline, all private.
 
+<!-- more -->
+
 <style>.screenshot-table td { text-align: center; vertical-align: bottom; } .screenshot-table img { max-height: 360px; width: auto; object-fit: contain; }</style>
 
 ## Browse

@@ -11,6 +11,8 @@ tags: [iOS, iPadOS, Open Source, MDict, MDX, Dictionary, Language Learning]
 
 A free, open-source MDict (.mdx/.mdd) dictionary reader for iPhone and iPad.
 
+<!-- more -->
+
 <style>
 .screenshot-table td { text-align: center; vertical-align: bottom; }
 .screenshot-table img { max-height: 360px; width: auto; object-fit: contain; }
