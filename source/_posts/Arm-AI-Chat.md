@@ -11,11 +11,11 @@ tags: [LLM, llama.cpp, Gen AI, Edge AI, Android, ChromeOS, ARM, AArch64, x86-64]
 
 Introducing **AI Chat**, a new way to explore and evaluate various [Large Language Models (LLMs)](https://en.wikipedia.org/wiki/Large_language_model) locally on your Android and ChromeOS devices.
 
+<!-- more -->
+
 Large language models are critical for improving app user experiences from cloud to edge and are increasingly helping app developers to get their products to market efficiently. At the edge, the Android ecosystem offers a wide range of hardware devices and numerous LLMs to support AI conversations in applications.
 
 A common question for AI and mobile developers is which model delivers the best performance on a given device to truly delight their users. Obtaining and testing new models on target devices is usually a time-consuming task. However, this new tool from Arm addresses this challenge by expediting the evaluation process.
-
-<!-- more -->
 
 ## Download & Chat
 

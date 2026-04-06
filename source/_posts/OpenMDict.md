@@ -9,7 +9,7 @@ categories:
 tags: [iOS, iPadOS, Open Source, MDict, MDX, Dictionary, Language Learning]
 ---
 
-A free, open-source MDict (.mdx/.mdd) dictionary reader for iPhone and iPad.
+A free, open-source [MDict](https://zh.wikipedia.org/zh-cn/MDict) (.mdx/.mdd) dictionary reader, featuring **desktop-class productivity on iPad** (multi-article layouts + multi-window + keyboard), **Pop-up Lookup** from any app, **iCloud sync**, unlimited **user groups** and dictionary imports, 65+ preset dictionaries and much more!
 
 <!-- more -->
 
@@ -22,7 +22,8 @@ A free, open-source MDict (.mdx/.mdd) dictionary reader for iPhone and iPad.
 
 ## iPad Superiority!
 
-Desktop-class productivity with multiple windows, 30+ keyboard shortcuts, and a pop-up Action Extension for looking up words from any app without leaving the page.
+Desktop-class productivity with multiple windows, 30+ keyboard shortcuts.
+View definitions from multiple dictionaries simultaneously in Columns, Grid, or List layout.
 
 <table class="screenshot-table"><tr>
 <td>{% asset_img ipad-1-multi-window.png "Multi-window" %}</td>
@@ -31,7 +32,8 @@ Desktop-class productivity with multiple windows, 30+ keyboard shortcuts, and a 
 
 ## Lookup & Article Reading
 
-View definitions from multiple dictionaries simultaneously in Columns, Grid, or List layout. Enhance third-party dictionaries' readability in dark mode with 7 levels of adjustable brightness per dictionary.
+A convenient Pop-up Action Extension for looking up words within any app.
+Enhance 3rd-party dics' readability in dark mode with strength customization per dictionary.
 
 <table class="screenshot-table"><tr>
 <td>{% asset_img ipad-3-grid-layout.png "Grid layout" %}</td>
@@ -63,7 +65,9 @@ Import unlimited dictionaries, organize them into groups, manage bookmarks and l
 
 ## Tutorials & Troubleshooting
 
-A built-in New User Guide walks you through every feature step by step. iCloud Troubleshooting lets you diagnose sync issues or reset the app. Plus, choose from 10 alternative app icons.
+A built-in New User Guide walks you through every feature step by step. 
+iCloud Troubleshooting lets you diagnose sync issues or reset the app. 
+Plus, choose from 10 alternative app icons as you like.
 
 <table class="screenshot-table"><tr>
 <td>{% asset_img ipad-7-icloud-troubleshooting.png "iCloud troubleshooting" %}</td>
