@@ -10,7 +10,7 @@ If you have questions, feedback, or run into issues with OpenMDict, please reach
 
 **Email:** naconacona@icloud.com
 
-**Bug Reports & Feature Requests:** [GitHub Issues](https://github.com/aspect-build/openmdict-ios/issues)
+**Bug Reports & Feature Requests:** [GitHub Issues](https://github.com/naco-siren/naco-siren.github.io/issues)
 
 OpenMDict is open source — contributions are welcome! Or leave a comment below.
 

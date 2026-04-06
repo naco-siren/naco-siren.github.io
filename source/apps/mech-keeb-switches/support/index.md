@@ -10,7 +10,7 @@ If you have questions, feedback, or run into issues with Mech Keeb Switches, ple
 
 **Email:** naconacona@icloud.com
 
-**Bug Reports:** [GitHub Issues](https://github.com/naco-siren/naco-siren.github.io/issues)
+**Bug Reports & Feature Requests:** [GitHub Issues](https://github.com/naco-siren/naco-siren.github.io/issues)
 
 Or leave a comment below — we'd love to hear from you!
 
