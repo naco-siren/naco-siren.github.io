@@ -2,6 +2,7 @@
 title: Arm AI Chat
 thumbnail: /thumbnails/Arm-AI-Chat.png
 date: 2025-11-11
+updated: 2026-04-05
 toc: true
 categories: Apps
 tags: [LLM, llama.cpp, Gen AI, Edge AI, Android, ChromeOS, ARM, AArch64, x86-64]

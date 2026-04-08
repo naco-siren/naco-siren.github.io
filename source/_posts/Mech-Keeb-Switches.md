@@ -2,6 +2,7 @@
 title: Mech Keeb Switches
 thumbnail: /thumbnails/Mech-Keeb-Switches.png
 date: 2025-12-31 22:22
+updated: 2026-04-05
 toc: true
 comments: true
 categories: [Apps]

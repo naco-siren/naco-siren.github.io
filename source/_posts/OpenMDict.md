@@ -2,6 +2,7 @@
 title: OpenMDict
 thumbnail: /thumbnails/OpenMDict.png
 date: 2026-04-05 15:37
+updated: 2026-04-05 15:37
 toc: true
 comments: true
 categories:
