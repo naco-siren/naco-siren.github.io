@@ -2,7 +2,7 @@
 title: OpenMDict
 thumbnail: /thumbnails/OpenMDict.png
 date: 2026-04-05 15:37
-updated: 2026-04-05 15:37
+updated: 2026-04-07 9:53
 toc: true
 comments: true
 categories:
@@ -84,9 +84,7 @@ Plus, choose from 10 alternative app icons as you like.
 
 ## Download
 
-<!-- [Download on the App Store](https://apps.apple.com/app/openmdict/idXXXXXXXXXX) -->
-
-Coming soon to the App Store.
+[Download on the App Store](https://apps.apple.com/us/app/openmdict/id6759032057)
 
 ---
 

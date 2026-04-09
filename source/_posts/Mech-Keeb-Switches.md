@@ -43,7 +43,7 @@ Browse, search, and compare hundreds of switches. Track your favorites and inven
 
 ## Download
 
-[Download on the App Store](https://apps.apple.com/kz/app/mech-keeb-switches/id6756983572)
+[Download on the App Store](https://apps.apple.com/us/app/mech-keeb-switches/id6756983572)
 
 ---
 
