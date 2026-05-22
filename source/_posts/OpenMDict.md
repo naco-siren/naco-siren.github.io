@@ -2,7 +2,7 @@
 title: OpenMDict
 thumbnail: /thumbnails/OpenMDict.png
 date: 2026-04-05 15:37
-updated: 2026-04-07 9:53
+updated: 2026-05-21
 toc: true
 comments: true
 categories:
@@ -19,6 +19,8 @@ A free, open-source [MDict](https://zh.wikipedia.org/zh-cn/MDict) (.mdx/.mdd) di
 .screenshot-table img { max-height: 360px; width: auto; object-fit: contain; }
 .screenshot-table-4col img { max-height: 240px; width: auto; object-fit: contain; }
 .screenshot-table-4col td { text-align: center; vertical-align: bottom; }
+.screenshot-table-5col img { max-height: 240px; width: auto; object-fit: contain; }
+.screenshot-table-5col td { text-align: center; vertical-align: bottom; }
 </style>
 
 ## iPad Superiority!
@@ -46,6 +48,18 @@ Enhance 3rd-party dics' readability in dark mode with strength customization per
 <td>{% asset_img iphone-2-lookup.png "Lookup" %}</td>
 <td>{% asset_img iphone-3-article.png "Article" %}</td>
 <td>{% asset_img iphone-4-dark-mode-enhancement.png "Dark mode" %}</td>
+</tr></table>
+
+## On-Device AI Coach
+
+Reinforce your bookmarks and lookup history with mini-games powered by [Apple Intelligence](https://www.apple.com/apple-intelligence/) right on your device — totally offline, no charge at all.
+
+<table class="screenshot-table-5col"><tr>
+<td>{% asset_img aicoach-1.jpg "Word Tinder" %}</td>
+<td>{% asset_img aicoach-2.jpg "Among wUrdS" %}</td>
+<td>{% asset_img aicoach-3.jpg "Morpheme Maury" %}</td>
+<td>{% asset_img aicoach-4.jpg "You ARE the morpheme!" %}</td>
+<td>{% asset_img aicoach-5.jpg "Phrasy Feud" %}</td>
 </tr></table>
 
 ## Customization & Management
