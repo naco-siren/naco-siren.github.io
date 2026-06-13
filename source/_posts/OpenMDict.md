@@ -21,6 +21,8 @@ A free, open-source [MDict](https://zh.wikipedia.org/zh-cn/MDict) (.mdx/.mdd) di
 .screenshot-table-4col td { text-align: center; vertical-align: bottom; }
 .screenshot-table-5col img { max-height: 240px; width: auto; object-fit: contain; }
 .screenshot-table-5col td { text-align: center; vertical-align: bottom; }
+.screenshot-table-6col img { max-height: 240px; width: auto; object-fit: contain; }
+.screenshot-table-6col td { text-align: center; vertical-align: bottom; }
 </style>
 
 ## iPad Superiority!
@@ -38,21 +40,27 @@ View definitions from multiple dictionaries simultaneously in Columns, Grid, or 
 A convenient Pop-up Action Extension for looking up words within any app.
 Enhance 3rd-party dics' readability in dark mode with strength customization per dictionary.
 
+Moreover, fuzzy queries come in handy when your memory is rusty:
+- "Semantic" lookup reveals related vocabulary;
+- "Article" lookup runs in reverse, surfacing headwords from their definitions.
+
 <table class="screenshot-table"><tr>
 <td>{% asset_img ipad-3-grid-layout.png "Grid layout" %}</td>
 <td>{% asset_img ipad-4-enhanced-dark-mode.png "Enhanced dark mode" %}</td>
 </tr></table>
 
-<table class="screenshot-table-4col"><tr>
+<table class="screenshot-table-6col"><tr>
 <td>{% asset_img iphone-1-dictionary-list.png "Dictionary list" %}</td>
 <td>{% asset_img iphone-2-lookup.png "Lookup" %}</td>
 <td>{% asset_img iphone-3-article.png "Article" %}</td>
 <td>{% asset_img iphone-4-dark-mode-enhancement.png "Dark mode" %}</td>
+<td>{% asset_img query-1-semantic.png "Semantic search" %}</td>
+<td>{% asset_img query-2-article-content.png "Article-content search" %}</td>
 </tr></table>
 
 ## On-Device AI Coach
 
-Reinforce your bookmarks and lookup history with mini-games powered by [Apple Intelligence](https://www.apple.com/apple-intelligence/) right on your device — totally offline, no charge at all.
+Reinforce your bookmarks and lookup history with mini-games powered by [Apple Intelligence](https://www.apple.com/apple-intelligence/) right on your device — works fully offline, no charge at all.
 
 <table class="screenshot-table-5col"><tr>
 <td>{% asset_img aicoach-1.jpg "Word Tinder" %}</td>
