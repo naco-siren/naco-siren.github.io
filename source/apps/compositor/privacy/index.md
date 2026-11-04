@@ -19,7 +19,9 @@ The App operates entirely on your device. Your projects, the images you import a
 
 ## Network Usage
 
-The App makes no network requests of its own. It has no analytics, no tracking, no telemetry and no updater; updates come through the App Store.
+The App makes one kind of network request of its own. The Volumetric Light effect needs a small depth-estimation model (about 2.6 MB) that is not bundled with the App; the first time you use that effect, the App downloads it from the original Compositor project's GitHub releases (github.com/robbietilton/Compositor) and keeps it on your device. The request carries no personal data or identifiers, and without a connection the effect still works, with a coarser fog.
+
+There are no analytics, no tracking, no telemetry and no updater; updates come through the App Store.
 
 If you keep projects in iCloud Drive, they are synced by Apple's iCloud Drive as any file in it is, under your iCloud account. **No data is sent to any server operated by the developer.**
 
