@@ -67,11 +67,7 @@ Compositor is Robbie Tilton's free and open-source image editor for the Mac, und
 
 ## Download
 
-[Join the TestFlight beta](https://testflight.apple.com/join/jNmZpqKx)
-
-<!-- When the App Store version is live, replace the line above with:
-[Download on the App Store](https://apps.apple.com/us/app/compositor/idXXXXXXXXXX)
--->
+[Download on the App Store](https://apps.apple.com/us/app/compositor-for-ipad/id6821137223)
 
 ---
 
