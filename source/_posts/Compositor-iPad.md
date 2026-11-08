@@ -24,6 +24,10 @@ A free, open-source image editor for compositing and photo work, ported to iPad 
 From the first stroke, a light touch paints a thinner line and a firm one the full Size. Tap the Opacity label to let pressure set the opacity too, and the Size label to turn it off; they're purple while pressure sets them. The toolbar's Pencil button switches between Pressure Sensitivity, Pencil and Finger Touch, so a Pencil that doesn't report pressure, or a finger, still paints. Apple Pencil (1st and 2nd generation) and Apple Pencil Pro report pressure; Apple Pencil (USB-C) doesn't.
 
 <table class="screenshot-table"><tr>
+<td>{% asset_img 07-pressure-strokes.png "Handwriting with Apple Pencil: pressure sets each stroke's Size and Opacity, so their labels in the Brush bar are purple" %}</td>
+</tr></table>
+
+<table class="screenshot-table"><tr>
 <td>{% asset_img 08-pressure-menu.png "The toolbar's Pencil menu: Pressure Sensitivity, Pencil, Finger Touch" %}</td>
 </tr></table>
 
