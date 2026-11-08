@@ -2,7 +2,7 @@
 title: Compositor for iPad
 thumbnail: /thumbnails/Compositor-iPad.png
 date: 2026-11-03 13:00
-updated: 2026-11-03
+updated: 2026-11-07
 toc: true
 comments: true
 categories:
@@ -10,7 +10,7 @@ categories:
 tags: [iPadOS, Open Source, Image Editor, Compositing, Photoshop, PSD, Apple Pencil]
 ---
 
-A free, open-source image editor for compositing and photo work, ported to iPad from [Compositor](https://github.com/robbietilton/Compositor) for the Mac: **layers, masks and clipping**, **adjustment layers**, **filters and layer effects on the GPU**, the Mac's tools on touch and **Apple Pencil**, the same `.comp` projects on both, on **any iPad that runs iPadOS 26**.
+A free, open-source image editor for compositing and photo work, ported to iPad from [Compositor](https://github.com/robbietilton/Compositor) for the Mac: **layers, masks and clipping**, **adjustment layers**, **filters and layer effects on the GPU**, the Mac's tools on touch and **Apple Pencil with pressure**, the same `.comp` projects on both, on **any iPad that runs iPadOS 26**.
 
 <!-- more -->
 
@@ -19,9 +19,17 @@ A free, open-source image editor for compositing and photo work, ported to iPad 
 .screenshot-table img { width: 100%; height: auto; object-fit: contain; }
 </style>
 
+## 2.0: Apple Pencil pressure
+
+From the first stroke, a light touch paints a thinner line and a firm one the full Size. Tap the Opacity label to let pressure set the opacity too, and the Size label to turn it off; they're purple while pressure sets them. The toolbar's Pencil button switches between Pressure Sensitivity, Pencil and Finger Touch, so a Pencil that doesn't report pressure, or a finger, still paints. Apple Pencil (1st and 2nd generation) and Apple Pencil Pro report pressure; Apple Pencil (USB-C) doesn't.
+
+<table class="screenshot-table"><tr>
+<td>{% asset_img 08-pressure-menu.png "The toolbar's Pencil menu: Pressure Sensitivity, Pencil, Finger Touch" %}</td>
+</tr></table>
+
 ## The Mac's editor, on touch
 
-Every tool of the Mac app works by touch: Move with the transform box, Marquee, Lasso and Magic selection, Crop, Brush and Eraser, Gradient, Shape, Type, Spot Healing and Clone Stamp. Apple Pencil paints, and a finger can too. Two fingers move and zoom the canvas; three fingers undo and redo. With a hardware keyboard you get the Mac's menu bar and its shortcuts.
+Every tool of the Mac app works by touch: Move with the transform box, Marquee, Lasso and Magic selection, Crop, Brush and Eraser, Gradient, Shape, Type, Spot Healing and Clone Stamp. Apple Pencil paints with pressure, and a finger can too. Two fingers move and zoom the canvas; three fingers undo and redo. With a hardware keyboard you get the Mac's menu bar and its shortcuts.
 
 <table class="screenshot-table"><tr>
 <td>{% asset_img 01-canvas.png "A composite with 23 layers, masks and adjustment layers" %}</td>

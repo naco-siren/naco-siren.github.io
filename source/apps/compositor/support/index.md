@@ -29,7 +29,7 @@ A: Yes. The iPad app reads and writes the same `.comp` format as Compositor for 
 A: No. Compositor is Robbie Tilton's open-source Mac app, under the MIT license. This is an unofficial iPad port built from a fork, and it is not reviewed or supported by him.
 
 **Q: Does it support Apple Pencil?**
-A: Yes, for painting, selecting and moving; a finger works too, and you can turn finger painting off so a resting hand doesn't draw. Pressure and tilt are coming.
+A: Yes, for painting, selecting and moving. Pressure sets the Brush's size from the first stroke; tap the Opacity label to let it set the opacity too, and the Size label to turn it off. The toolbar's Pencil button switches between Pressure Sensitivity, Pencil (no pressure) and Finger Touch. Apple Pencil (1st and 2nd generation) and Apple Pencil Pro report pressure; Apple Pencil (USB-C) has no pressure sensor, so choose Pencil there if strokes come out thin. A finger works too, and in Pencil or Pressure Sensitivity a resting hand doesn't draw. Tilt is not read yet.
 
 **Q: What can it import and export?**
 A: Import JPEG, PNG, HEIC and HEIF, TIFF, WebP, Photoshop PSD and PSB, camera RAW, OpenEXR and Radiance HDR. Export PNG and JPEG to Files, to Photos or to the share sheet.
